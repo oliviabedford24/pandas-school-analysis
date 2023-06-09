@@ -1,4 +1,4 @@
-# pandas-challenge
+# pandas-school-analysis
 
 This challenge examines statistical data from the PyCity school district, which contains 15 individual schools and approximately twenty-four thousand students. This challenge drills down the aggregate information provided into useful data tables that concern grade averages, per capita spending, school type, and other variables.
 
